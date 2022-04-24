@@ -2,7 +2,7 @@
 
 ## Overview
 
-The following analysis was done in a school district to help in allocating funds appropriately and see ways to help improve perfomance throught the district. A report was finalized and presented to a group of stakeholders and school board and it is fully deatiled in this document with relevant suggestions and helpful observations to further improve the perfomance of this particular district. However, this analysis is comporomised as one grade from a particular high school is believed to have manipulated their results. 
+The following analysis was done in a school district to help in allocating funds appropriately and see ways to help improve perfomance throught the district. A report was finalized and presented to a group of stakeholders and school board and it is fully detailed in this document with relevant suggestions and helpful observations to further improve the perfomance of this particular district. However, this analysis is compromised as one grade from a particular high school is believed to have manipulated their results. 
 
 ## Results
 
@@ -17,7 +17,7 @@ The following analysis was done in a school district to help in allocating funds
 
 * By replacing the 9th grade scores, the grades were masssively hurt since they were set to NaN which results in zero that is expected to cause a massive negative difference which caused the drop from 91% TO 65%. A total of 461 students being taken out was always going to cause major problems to the final audit which can be displayed below: ![NaN](https://user-images.githubusercontent.com/101376325/163748230-b3ecedc8-a9e2-4e88-994b-ce4f85554355.png)
 
-* In addition, 461 students of 1635 students brings a missing 28% which could possib;ly have hindered the accuracy of the analysis. 
+* In addition, 461 students of 1635 students brings a missing 28% which could possibly have hindered the accuracy of the analysis. 
 
 * According to this analysis, major differences were not noticed in the school type, school size and school spending parameters as shown by the images below: 
 
